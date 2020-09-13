@@ -23,8 +23,8 @@ echo -e "\e[1;91m  ║ \e[1;92m│ │ │└──┐\e[1;91m╠═╣ \e[1;92m
 echo -e "\e[1;91m  ║ \e[1;92m┘ └─┘└──┘\e[1;91m║   \e[1;92m└──┘┴──┘┴──┘└──┘└─┴─┘"
 echo -e "\e[1;91m ═╩═\e[1;92m         \e[1;91m╩"
 echo ""
-echo -e "\e[1;91m [+] YouTube: \e[1;92mTermuxProfessor"
-echo -e "\e[1;91m [+] Github: \e[1;92mtermuxprofessor\e[1;97m"
+echo -e "\e[1;91m [+] YouTube: \e[1;92mHackTeachz"
+echo -e "\e[1;91m [+] Github: \e[1;92mHackTeachz\e[1;97m"
 echo ""
 
 }     
