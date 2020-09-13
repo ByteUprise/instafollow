@@ -20,7 +20,7 @@ Best Tool For Increase Instagram Follower.
 
 `$ git clone https://github.com/HackTeachz/instafollow`
 
-`$ cd instafollow
+`$ cd instafollow `
 
 `$ chmod +x insfollow.sh`
 
