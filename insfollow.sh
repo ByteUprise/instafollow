@@ -25,6 +25,11 @@ echo -e "\e[1;91m ═╩═\e[1;92m         \e[1;91m╩"
 echo ""
 echo -e "\e[1;91m [+] YouTube: \e[1;92mHackTeachz"
 echo -e "\e[1;91m [+] Github: \e[1;92mHackTeachz\e[1;97m"
+echo -e "\e[1;91m [+] Facebook: \e[1;92mHackTeachz\e[1;97m"
+echo -e "\e[1;91m [+] Gitlab: \e[1;92mHackTeachz\e[1;97m"
+echo -e "\e[1;91m [+] Instagram: \e[1;92mHackTeachz\e[1;97m"
+echo -e "\e[1;91m [+] Twitter: \e[1;92mHackTeachz\e[1;97m"
+echo -e "\e[1;91m [+] Website: \e[1;92mwww.HackTeachz.tk\e[1;97m"
 echo ""
 
 }     
